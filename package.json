@@ -1,0 +1,10 @@
+{
+  "name": "TestNpm",
+  "uuid": "90c86053-2044-42d5-b26c-f2be32f4d39e",
+  "creator": {
+    "version": "3.8.1"
+  },
+  "dependencies": {
+    "web3": "^4.6.0"
+  }
+}
